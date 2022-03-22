@@ -49,9 +49,77 @@ pip install opencv-python
 
 ## Project Structure
 
-
 **Note:** There are 3 python scripts are in this project folders, those are the following.
 
 - run-with-images.py - *To run with images*
 - run-with-videos.py - *To run with video files*
 - run-with-webcam.py - *To run with webcam*
+
+![Face](github-readme-contants/github.jpg)
+
+
+## Run with Images (run-with-images.py)
+
+- To execute this script
+
+```
+Python run-with-images.py
+
+```
+
+### Output
+
+![Face](github-readme-contants/run-with-images-output.jpg)
+
+### To try with different images
+
+![Face](github-readme-contants/run-with-images-output-code.jpg)
+
+**Note** To change different images, edit the image path in the cv2.imread() function.
+
+## Run with videos (run-with-videos.py)
+
+- To execute this script
+
+```
+Python run-with-videos.py
+
+```
+
+### Output
+
+![Face](github-readme-contants/run-with-video-output.gif)
+
+### To try with different webcam
+
+![Face](github-readme-contants/run-with-videos-output-code.jpg)
+
+**Note** To change different videos, edit the video path in the cv2.VideoCapture() function.
+
+## Run with webcam (run-with-webcam.py)
+
+- To execute this script
+
+```
+Python run-with-webcam.py
+
+```
+
+### Output
+
+![Face](github-readme-contants/webcam.gif)
+
+### To try with different webcam
+
+![Face](github-readme-contants/webcam-code.jpg)
+
+**Note** To change different webcam, change the index in the cv2.VideoCapture() function. "0" means the first camera, "1" means the second camera and so on.
+
+Any Questions? | Conduct Me
+---
+
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
+* [Facebook Profile](https://www.facebook.com/gunarakulan)
+* [Twitter Profile](https://twitter.com/gunarakulang)
+* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
+* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
