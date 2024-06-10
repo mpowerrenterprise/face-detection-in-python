@@ -1,4 +1,4 @@
-# FACE DETECTION IN PYTHON
+# Face Detection In Python
 
 ## Introduction
 
@@ -115,7 +115,7 @@ Python run-with-webcam.py
 
 **Note** To change different webcam, change the index in the cv2.VideoCapture() function. "0" means the first camera, "1" means the second camera and so on.
 
-# CONTACT
+# Contact
 
 ### Website: 
 
